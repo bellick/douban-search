@@ -14,14 +14,14 @@ A search engine based on douoban.
 
 
 * 查询范围：某些小组 or 全部小组 or 。。。
- 
+
 ### 性能需求
 
 1. 1s内响应
 
 ### 约束
 
-1. 后台用Java实现
+1. 后台用Flask实现
 2. 分布式存储方式待定（nosql?）
 3. 爬虫用scrapy
 
@@ -39,4 +39,6 @@ A search engine based on douoban.
 * 分布式存储
 * 
 
-### 
+### 界面
+
+![截屏2020-01-14下午4.43.24](README.assets/截屏2020-01-14下午4.43.24.png)
